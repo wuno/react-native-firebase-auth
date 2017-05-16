@@ -39,7 +39,8 @@ const styles = StyleSheet.create( {
     fontSize: 16,
     fontWeight: '600',
     paddingTop: 10,
-    paddingBottom: 10
+    paddingBottom: 10,
+    flexDirection: 'row'
   }
 });
 
